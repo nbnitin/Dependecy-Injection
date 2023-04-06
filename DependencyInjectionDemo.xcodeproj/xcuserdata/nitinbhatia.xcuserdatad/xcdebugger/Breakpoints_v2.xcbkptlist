@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BFBDCD9E-9930-4FC7-A110-5D3751618873"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECD93501-0D66-4F4A-A07B-C522D12EB6AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DependencyInjectionDemo/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getDataFromURL(_:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ECD93501-0D66-4F4A-A07B-C522D12EB6AA - c3fc7833317f2b89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DependencyInjectionDemo.ServiceManager.getDataFromURL&lt;&#x3c4;_0_0&gt;(_: Swift.String, completionHandler: (&#x3c4;_0_0) -&gt; ()) -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "ECD93501-0D66-4F4A-A07B-C522D12EB6AA - c3fc7833317f2b89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DependencyInjectionDemo.ServiceManager.getDataFromURL&lt;&#x3c4;_0_0&gt;(_: Swift.String, completionHandler: (&#x3c4;_0_0) -&gt; ()) -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "ECD93501-0D66-4F4A-A07B-C522D12EB6AA - 5dfcb4c187a505f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DependencyInjectionDemo.ServiceManager.getDataFromURL&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: Swift.String, completionHandler: (&#x3c4;_0_0) -&gt; ()) -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "ECD93501-0D66-4F4A-A07B-C522D12EB6AA - 5dfcb4c187a505f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DependencyInjectionDemo.ServiceManager.getDataFromURL&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: Swift.String, completionHandler: (&#x3c4;_0_0) -&gt; ()) -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "ECD93501-0D66-4F4A-A07B-C522D12EB6AA - 219e88270d382280"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DependencyInjectionDemo.ServiceManager.getDataFromURL&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: Swift.String, completionHandler: (Swift.Array&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "ECD93501-0D66-4F4A-A07B-C522D12EB6AA - 219e88270d382280"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DependencyInjectionDemo.ServiceManager.getDataFromURL&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: Swift.String, completionHandler: (Swift.Array&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F78B52A4-1FD4-4F36-99E1-4B7D20881F78"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DependencyInjectionDemo/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getDataFromURL(_:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F78B52A4-1FD4-4F36-99E1-4B7D20881F78 - cca3431e3597ccb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DependencyInjectionDemo.ServiceManager.getDataFromURL&lt;&#x3c4;_0_0&gt;(_: Swift.String, completionHandler: (&#x3c4;_0_0) -&gt; ()) -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "F78B52A4-1FD4-4F36-99E1-4B7D20881F78 - 89c44a3c25a0c99b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DependencyInjectionDemo.ServiceManager.getDataFromURL&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: Swift.String, completionHandler: (&#x3c4;_0_0) -&gt; ()) -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "F78B52A4-1FD4-4F36-99E1-4B7D20881F78 - ef43cba19be373ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DependencyInjectionDemo.ServiceManager.getDataFromURL&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: Swift.String, completionHandler: (Swift.Array&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3628C35A-2AE8-413A-92C5-F7A34A547825"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DependencyInjectionDemo/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getDataFromURL(_:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3628C35A-2AE8-413A-92C5-F7A34A547825 - 89c44a3c25a0c9d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DependencyInjectionDemo.ServiceManager.getDataFromURL&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: Swift.String, completionHandler: (&#x3c4;_0_0) -&gt; ()) -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "3628C35A-2AE8-413A-92C5-F7A34A547825 - ef43cba19be37384"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DependencyInjectionDemo.ServiceManager.getDataFromURL&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: Swift.String, completionHandler: (Swift.Array&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B69FE1C4-57EF-4741-9A27-FAE71A0D871C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DependencyInjectionDemo/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getDataFromURL(_:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B69FE1C4-57EF-4741-9A27-FAE71A0D871C - 89c44a3c25a0c836"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DependencyInjectionDemo.ServiceManager.getDataFromURL&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: Swift.String, completionHandler: (&#x3c4;_0_0) -&gt; ()) -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "B69FE1C4-57EF-4741-9A27-FAE71A0D871C - ef43cba19be37267"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DependencyInjectionDemo.ServiceManager.getDataFromURL&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: Swift.String, completionHandler: (Swift.Array&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C663DAD0-00C1-40A2-8E68-C171208C21AC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DependencyInjectionDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C663DAD0-00C1-40A2-8E68-C171208C21AC - a96c52c9f6e69a96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DependencyInjectionDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  uuid = "C663DAD0-00C1-40A2-8E68-C171208C21AC - a96c52c9f6e69a96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DependencyInjectionDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "660">
+               </Location>
+               <Location
+                  uuid = "C663DAD0-00C1-40A2-8E68-C171208C21AC - a96c52c9f6e69a96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DependencyInjectionDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "612">
+               </Location>
+               <Location
+                  uuid = "C663DAD0-00C1-40A2-8E68-C171208C21AC - a96c52c9f6e69a71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DependencyInjectionDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "C663DAD0-00C1-40A2-8E68-C171208C21AC - a96c52c9f6e69a71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DependencyInjectionDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "C663DAD0-00C1-40A2-8E68-C171208C21AC - a96c52c9f6e69af5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DependencyInjectionDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "300">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91821592-4840-4778-94DE-62F31DE1DE11"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DependencyInjectionDemo/DependencyContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "DependencyContainer"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "91821592-4840-4778-94DE-62F31DE1DE11 - 4e8701800336ffa0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DependencyInjectionDemo.DependencyContainer.register&lt;&#x3c4;_0_0&gt;(interface: &#x3c4;_0_0.Type, service: &#x3c4;_0_0) -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/DependencyContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "91821592-4840-4778-94DE-62F31DE1DE11 - 4e8701800336fc79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DependencyInjectionDemo.DependencyContainer.register&lt;&#x3c4;_0_0&gt;(interface: &#x3c4;_0_0.Type, service: &#x3c4;_0_0) -&gt; ()"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/DependencyContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4977984F-0374-41CD-BFCC-73705AF36D90"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DependencyInjectionDemo/DependencyContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "DependencyContainer"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "4977984F-0374-41CD-BFCC-73705AF36D90 - 8b0d6b2dd5fde33e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DependencyInjectionDemo.DependencyContainer.resolve&lt;&#x3c4;_0_0&gt;() -&gt; &#x3c4;_0_0"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/DependencyContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "4977984F-0374-41CD-BFCC-73705AF36D90 - 8b0d6b2dd5fde257"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DependencyInjectionDemo.DependencyContainer.resolve&lt;&#x3c4;_0_0&gt;() -&gt; &#x3c4;_0_0"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/DependencyContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "4977984F-0374-41CD-BFCC-73705AF36D90 - 93ec78610acb42c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DependencyInjectionDemo.DependencyContainer.resolve&lt;&#x3c4;_0_0&gt;(of: &#x3c4;_0_0.Type) -&gt; &#x3c4;_0_0"
+                  moduleName = "DependencyInjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/DependencyInjectionDemo/DependencyInjectionDemo/DependencyContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
