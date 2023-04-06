@@ -17,7 +17,7 @@ We can implement the Dependency Injection in several ways. These ways are Initia
 
 
 
-#Initializer Injection is a most favorite way to inject dependencies, and also it’s my favorite solution to inject objects. You can also see it called Constructor Injection somewhere, both are completely the same.
+**Initializer Injection** is a most favorite way to inject dependencies, and also it’s my favorite solution to inject objects. You can also see it called Constructor Injection somewhere, both are completely the same.
 
 In this way, we pass all the dependencies as initializer parameters.
 
@@ -42,7 +42,7 @@ final class ViewModel {
 }
 
 
-#Another dependencies injection way is Setter Injection(a.k.a Property Injection).
+#Another dependencies injection way is **Setter Injection(a.k.a Property Injection)**
 
 protocol UserServiceProtocol {
     func fetchUsers()
@@ -67,7 +67,7 @@ final class ViewModel {
 
 }
 
-#The latest Dependencies Injection way is Interface Injection.
+#The latest Dependencies Injection way is **Interface Injection**.
 
 protocol UserServiceProtocol {
     func fetchUsers()
@@ -104,7 +104,7 @@ The ServiceProtocol completely doesn’t know the implementation.
 
 By confirming the ServiceProtocol, the code gets loosely coupled.
 
-#A Dependency Injection Container is an object that is responsible for recording, deciding, and settling all the dependencies. Responsibilities of the #deciding and settling mean that the DI container needs to know about the constructor arguments and the relationships between the objects.
+**A Dependency Injection Container is an object that is responsible for recording, deciding, and settling all the dependencies. Responsibilities of the deciding and settling mean that the DI container needs to know about the constructor arguments and the relationships between the objects.**
 
-and project has an example of Dependency Injection Container
+**and project has an example of Dependency Injection Container**
 
